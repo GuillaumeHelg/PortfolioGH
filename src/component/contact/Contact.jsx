@@ -1,5 +1,5 @@
 import React from 'react'
-import contact from './contact.css'
+import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
@@ -32,6 +32,8 @@ const Contact = () => {
             <a href="mailto:guillaume.helg@gmail.com" target="_blank">Send an Email</a>
           </article>
         </div>
+
+        
         <form action="">
           <input type="text" name='name' placeholder='Your full name' required/>
           <input type="email" name='email' placeholder='Your email' required />

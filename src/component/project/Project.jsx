@@ -1,6 +1,6 @@
 import React from 'react'
-import project from './project.css'
-import img1 from "../../assets/carte.png"
+import './project.css'
+import img1 from "../../assets/img3.jpg"
 
 const data = [
   {
@@ -30,7 +30,7 @@ const data = [
     title: 'projet alloc memoire',
     github: 'https://github.com/',
     demo: 'https://github.com/'
-  },
+  }
 ]
 
 

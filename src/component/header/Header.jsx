@@ -1,5 +1,5 @@
 import React from 'react'
-import header from './header.css'
+import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/istockphoto-1249847791-612x612.jpg'
 import HeaderSocials from './HeaderSocials'
